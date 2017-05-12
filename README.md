@@ -1,7 +1,7 @@
 
 Verbat-guna-s
 ======================
-![alt tag](http://imgur.com/a/71Sun.gif)
+![alt tag](http://imgur.com/a/71Sun)
 
 
 
